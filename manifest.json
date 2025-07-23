@@ -1,0 +1,21 @@
+{
+  "name": "Dwagon Delivery Schedule Tracker",
+  "short_name": "DwagonTracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0277bd",
+  "description": "Track and manage your deliveries with ease.",
+  "icons": [
+    {
+      "src": "dwagon-logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "dwagon-logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
